@@ -11,7 +11,7 @@
 
  #### 1. [SDN HARJOBINANGUN](https://dapo.kemdikbud.go.id/sekolah/E569B156BFF0FE251F9B) | Purworejo `2008-2014`
  #### 2. [SMPN 34 PURWOREJO](https://dapo.kemdikbud.go.id/sekolah/2E55D30239A7126EAEA6) | Purworejo `2014-2017`
- #### 3. [SMK YPE SAWUNGGALIH KUTOARJO](https://smkypesaga.sch.id) | Office Asministration | Purworejo `2017-2020`
+ #### 3. [SMK YPE SAWUNGGALIH KUTOARJO](https://smkypesaga.sch.id) | Office Administration | Purworejo `2017-2020`
 
 
 ## Work Experience:
